@@ -2,7 +2,7 @@ package Lesson01_Variables;
 
 public class main {
     public static void main(String[] args) {
-        //Highlighted "Error message" above doens't mean anything.
+    //Highlighted "Error message" above doens't mean anything.
     /**
      *  Key Shortcuts you need to use.
      *  type these out btw.
@@ -15,6 +15,11 @@ public class main {
      * 
      *  // use // to make comments OR /** 
      */
+        ;
+
+                    
+        
+
 
     }
 
