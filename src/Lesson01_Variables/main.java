@@ -14,6 +14,13 @@ public class main {
      *  ctrl s to save
      * 
      *  // use // to make comments OR /** 
+     * 
+     *  Standard way of coding
+     *  camelCase - your names should be lowercase then uppercase
+     *  name your code not too specific sometimes
+     * 
+     *  Ex. String firstName = "Dookie";
+     *      String lastName = "Bryan";
      */
         ;
 
