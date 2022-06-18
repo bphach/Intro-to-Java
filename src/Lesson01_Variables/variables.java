@@ -23,6 +23,11 @@ public class variables {
     System.out.println("a: "+a);
     System.out.println("b: "+b);
 
+        //arithmetic expressions 
+        //expressions = operands & operators 
+        //operands = values, quanitity, numbers, variables 
+        //operators = + - * / 
+
 
     }
    }
