@@ -1,4 +1,4 @@
-package Lesson02_Print_Statements;
+package Lesson09_Print_Statements;
 
 public class main {
     public static void main(String[] args) {
