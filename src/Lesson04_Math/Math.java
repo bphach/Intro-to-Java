@@ -15,7 +15,7 @@ public class Math {
 
       System.out.println(x);
 
-
+      //These will randomize for you 
 
     }
 
