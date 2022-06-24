@@ -30,7 +30,7 @@ public class main {
 
         String response = scanner.next(); 
 
-        if(response.equals("q") || !response.equals(null) {
+        if(response.equals("q") || !response.equals(null)) {
             System.out.println("You quit the game");
         }
         else {
