@@ -7,6 +7,14 @@ public class main {
         
         String[][] cars = new String[3][3];
 
+        //another way to write is by assinging all of the values right away to this 2d array 
+        
+        // String[][] cars = {"Camaro","corvette","Silverado"},
+        //                   {"mustang","ranger", "F-150" },
+        //                   {"Ferrari", "Civic", "Tesla"}}; 
+        
+        // This an example of how to do it another way
+
         cars[0][0] = "Camaro";
         cars[0][1] = "corvette";
         cars[0][2] = "Silverado";
