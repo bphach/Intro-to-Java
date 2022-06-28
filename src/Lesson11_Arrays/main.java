@@ -14,7 +14,7 @@ public class main {
 
         //With arrays, when you assign values, they have to be the same data type and consistent. Example you can't add "123". In this case you can only add strings and not integers 
     
-        String[] cars = new String[3];//assigning a total of 3 strings to the array of cars 
+        String[] car = new String[3];//assigning a total of 3 strings to the array of cars 
     
         cars[0] = "Camaro";
         cars[1] = "Mustang";
